@@ -1268,3 +1268,10 @@ section {
     padding: 5px 0;
   }
 }
+
+#table {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5px;
+  margin-right: 5px;
+}
